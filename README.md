@@ -10,8 +10,8 @@ MST is an extension of the work previously done by LA Gatys. The whole idea of h
      <td>Stylised Image: with  3 Vangogh artworks</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/rudra-99/Multi-Style-Transfer/assets/107755049/c00eb34e-1603-4546-8514-1111671d826d" width = "500" height = "400"></td>
-    <td><img src = "https://github.com/rudra-99/Multi-Style-Transfer/assets/107755049/1dd828c0-4040-4c74-9ba7-2dc55d5b3548" width = "500" height = "400"></td>
+    <td><img src="https://github.com/rudra-99/Multi-Style-Transfer/assets/107755049/c00eb34e-1603-4546-8514-1111671d826d" width = "500" height = "300"></td>
+    <td><img src = "https://github.com/rudra-99/Multi-Style-Transfer/assets/107755049/1dd828c0-4040-4c74-9ba7-2dc55d5b3548" width = "500" height = "300"></td>
   </tr>
  </table>
 
